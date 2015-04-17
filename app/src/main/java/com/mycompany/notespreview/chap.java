@@ -13,7 +13,7 @@ public class chap extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chap);
     }
-    //Hello
+    //Hello World Show commentsd
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
